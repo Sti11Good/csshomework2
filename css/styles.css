@@ -54,7 +54,7 @@ p {
   grid-template-columns: 40% 40%;
   justify-content: space-around;
   align-items: center;
-  gap: 1.5rem;
+  gap: 1rem;
 }
 
 .grid img {
@@ -66,4 +66,5 @@ p {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+
 }
